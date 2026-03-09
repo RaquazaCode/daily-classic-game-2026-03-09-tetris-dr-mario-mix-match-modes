@@ -1,0 +1,1 @@
+coord=origin_top_left;x+right;y+down; mode=playing; paused=0; score=105; viruses=14; pieceMode=capsule; pieceShape=CAPSULE; pieceX=3; pieceY=3; elapsedMs=2789
